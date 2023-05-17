@@ -1,6 +1,7 @@
 class A{
 	public static void main(String a[]){
 	
-		System.out.print("hello");
+		System.out.println("hello");
+
 	}
 }
